@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-board-front/node_modules
+/react-board-front/.pnp
+/react-board-front.pnp.js
+
+# testing
+/react-board-front/coverage
+
+# production
+/react-board-front/build
+
+# misc
+/react-board-front/.DS_Store
+/react-board-front/.env.local
+/react-board-front/.env.development.local
+/react-board-front/.env.test.local
+/react-board-front/.env.production.local
+
+/react-board-front/npm-debug.log*
+/react-board-front/yarn-debug.log*
+/react-board-front/yarn-error.log*
